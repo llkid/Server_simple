@@ -1,0 +1,2 @@
+cd /d "D:\workSpace\test\cpp\server_simple\Server_simple\Server_simple" &msbuild "Server_simple.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Win32" /p:SolutionDir="D:\workSpace\test\cpp\server_simple\Server_simple" 
+exit %errorlevel% 
